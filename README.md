@@ -51,5 +51,10 @@ Yeh Power BI dashboard ek **Ecommerce Business Analysis** hai jisme sales, profi
 
 ---
 
+📄 **For More Details, Read:** [`ecommerce_website.pdf`](ecommerce_website.pdf)  
 
+---
+
+## 🔗 Repository Link  
+👉 [GitHub Repository](https://github.com/Shalini-Nanda-ds/Ecommerce_dashboard.git) 
 
