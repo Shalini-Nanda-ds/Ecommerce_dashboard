@@ -1,7 +1,7 @@
 # 📊 Ecommerce Dashboard - Power BI  
 
 ## 📖 Description  
-Yeh Power BI dashboard ek **Ecommerce Business Analysis** hai jisme sales, profit, aur orders ka analysis kiya gaya hai.  
+This Power BI dashboard is an Ecommerce Business Analysis that presents insights on sales, profit, and orders. 
 
 ---
 
